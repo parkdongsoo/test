@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<h1>레이아웃입니다.</h1>
 	<tiles:insertAttribute name="main" />
 </body>
 </html>
